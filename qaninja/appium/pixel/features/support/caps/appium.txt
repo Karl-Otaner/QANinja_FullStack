@@ -1,0 +1,8 @@
+[caps]
+platformName = "Android"
+deviceName = "emulator-5554"
+automationName = "uiautomator2"
+udid = "emulator-5554"
+app = "https://drive.google.com/u/0/uc?id=1xxH-D2Rpl5Ot3brcP-vhjgEWtyRbgQW3&export=download"
+appPackage = "qaninja.com.pixel"
+appActivity = "qaninja.com.pixel.SplashScreen"
